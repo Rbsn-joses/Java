@@ -45,5 +45,8 @@ public class Conta {
     public boolean isStatus() {
         return status;
     }
-    
+    //@param método abrir Conta
+    void abrirConta(){
+        
+    }
 }
